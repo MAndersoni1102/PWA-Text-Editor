@@ -15,8 +15,16 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "@babel/runtime": "^7.25.0",
+    "code-mirror-themes": "^1.0.0",
+    "css-loader": "^7.1.2",
     "express": "^4.17.1",
-    "if-env": "^1.0.4"
+    "http-server": "^14.1.1",
+    "idb": "^8.0.0",
+    "if-env": "^1.0.4",
+    "mongoose": "^8.5.3",
+    "style-loader": "^4.0.0",
+    "webpack-dev-server": "^5.0.4"
   },
   "devDependencies": {
     "@babel/core": "^7.25.2",
